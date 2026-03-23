@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Maxence
 
-<!--
-**maxncard/maxncard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en informatique orienté sur l'administration système, les réseaux et le DevOps.
+En recherche d'alternance pour la rentrée septembre 2026.
 
-Here are some ideas to get you started:
+## 🛠️ Compétences
+- Systèmes : Linux, Windows Server  
+- Réseaux : TCP/IP, notions d’administration réseau  
+- Virtualisation : VirtualBox  
+- Outils : Git, Docker (bases), Bash  
+- Supervision : Grafana (bases)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 En ce moment j'apprends
+- Docker & conteneurisation
+- Scripting Bash
+- Bases du DevOps
+- j'améliore ma maitrise du C
+
+## 🎸 En dehors du code
+Guitare & piano autodidacte · Passionné de vulgarisation scientifique · Grenoble 🇫🇷
+
+## 📫 Me contacter
+www.linkedin.com/in/maxence-aridi · maxencearidi@gmail.com
